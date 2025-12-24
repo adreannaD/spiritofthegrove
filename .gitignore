@@ -1,0 +1,34 @@
+# Unity folders
+Assets/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Addressables cache
+Assets/AddressableAssetsData/*/*.bin*
+
+# Large audio/video handled by LFS
+*.wav
+*.mp3
+*.ogg
+*.mp4
+*.mov
+*.fbx
+*.psd
+*.tga

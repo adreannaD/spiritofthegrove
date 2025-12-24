@@ -15,7 +15,7 @@ Built With:
 Unity (URP), C#, NavMesh AI, Unity Input System, AudioSource, and UI systems. Version control is managed with Git and Git LFS.
 
 Repository Notes:
-This repository contains the Packages, and ProjectSettings folders. Generated Unity folders such as Library and Temp are excluded via .gitignore.
+This repository contains the Packages, and ProjectSettings folders. Generated Unity folders such as Library and Temp are excluded via .gitignore. The Assets folder is also not included as it was 4 GB
 
 What I Learned:
 Developing this project helped refine scalable quest and dialogue systems, debugging NavMesh and runtime spawning issues, managing large Unity projects with Git and Git LFS, and integrating third-party assets into custom gameplay logic.
